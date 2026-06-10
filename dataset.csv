@@ -1,0 +1,10 @@
+Glucose,Haemoglobin,Cholesterol,Disease
+90,14,180,Healthy
+100,13,190,Healthy
+110,14,200,Healthy
+130,13,220,Diabetes Risk
+150,12,240,Diabetes Risk
+160,12,250,Diabetes Risk
+170,11,260,High Diabetes Risk
+180,10,280,High Diabetes Risk
+190,10,300,High Diabetes Risk
